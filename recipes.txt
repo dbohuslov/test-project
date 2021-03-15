@@ -4,5 +4,7 @@ Pasta
 Meatloaf
 Chicken
 
+Beans
+Rice
 
 Thank you.
